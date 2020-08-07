@@ -76,3 +76,16 @@ footer{
 	bottom: 0;
    height: auto;
 }
+#hero3{
+	background-image:linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.3)), url('https://si.wsj.net/public/resources/images/BN-FU917_1201bh_H_20141201211520.jpg');
+    height: 500px;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+	padding: 10%;
+    background-attachment: fixed;
+}
+#hero3 h1{
+	color:white;
+	text-align:center;
+}
